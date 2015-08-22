@@ -1,0 +1,24 @@
+{
+  "name": "grunt-study",
+  "version": "1.0.0",
+  "description": "basic use and some tools and plug-in of grunt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "no at this time"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/yuhualingfeng/grunt-study.git"
+  },
+  "keywords": [
+    "grunt",
+    "task runner"
+  ],
+  "author": "puhuasheng",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
